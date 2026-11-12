@@ -1,0 +1,12 @@
+{
+  "name": "traxure",
+  "version": "1.0.0",
+  "description": "Ask Traxure about your music: is every release live on the stores, what changed, a ready letter to your distributor, and your smart links.",
+  "mcpServers": {
+    "traxure": {
+      "type": "http",
+      "url": "https://traxure.com/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
