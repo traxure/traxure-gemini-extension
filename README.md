@@ -1,7 +1,7 @@
 # Traxure for Gemini CLI
 
 ```bash
-gemini extensions install https://github.com/michaeltammusic/traxure-gemini-extension
+gemini extensions install https://github.com/traxure/traxure-gemini-extension
 ```
 
 Then run `gemini`, ask anything about your music, and sign in to Traxure
